@@ -1,0 +1,14 @@
+[Unit]
+Description=GPIO inspect Deamon
+After=network.target
+
+[Service]
+Type=simple
+User=root
+Group=root
+WorkingDirectory=/home/pi
+ExecStart=/home/pi/gpiod
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
