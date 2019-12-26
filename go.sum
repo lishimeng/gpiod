@@ -1,0 +1,10 @@
+github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
+github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/jeanphorn/log4go v0.0.0-20190526082429-7dbb8deb9468/go.mod h1:VRGsDaBwSjfG6KG3PtW5uoGc+iqzEG3jEdo2b1ZwSJc=
+github.com/lishimeng/etc v0.0.0-20190603090403-aaf53cd888e0 h1:pef8X23xZqWm0hF8mZ4cDhshqhFRo5Xzub/S3MPuDSA=
+github.com/lishimeng/etc v0.0.0-20190603090403-aaf53cd888e0/go.mod h1:Oekba4RZCoNViUJlvPXaWKSHaEqD5OWVe9etWSsdtKo=
+github.com/lishimeng/mmap v1.0.0 h1:TUmI9kCUx0BTxN+zMW46U0EhOaucggi3PbAePnNh/6k=
+github.com/lishimeng/mmap v1.0.0/go.mod h1:aI1D/VNRgHK+wONIK6vN0AKpvGbAz57OdHtfivSHkoo=
+github.com/nathan-osman/go-rpigpio v0.0.0-20160701025123-bce6190607da h1:4fuSzRW9Os4EsqurEJtUADEZBAhYBQGDwMYEpm0tY70=
+github.com/nathan-osman/go-rpigpio v0.0.0-20160701025123-bce6190607da/go.mod h1:d9P2zqmuOhe7dbKtAOfSXL4vIB9BAjFj/+/vMULsVfE=
+github.com/toolkits/file v0.0.0-20160325033739-a5b3c5147e07/go.mod h1:FbXpUxsx5in7z/OrWFDdhYetOy3/VGIJsVHN9G7RUPA=
